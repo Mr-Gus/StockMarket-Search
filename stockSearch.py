@@ -1,7 +1,6 @@
 import requests
 import threading
 from threading import Thread
-import random 
 import json
 import time as tm
 
