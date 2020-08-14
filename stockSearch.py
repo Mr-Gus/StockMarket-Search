@@ -12,7 +12,7 @@ import speech
 class Stock:
 		
 	def __init__(self):
-		self.apiKey = 'bsnpc1nrh5rctp1flcd0'
+		self.apiKey = ''
 		self.peerList = []
 		self.headlines = []
 		self.goodCount = 0
